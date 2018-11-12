@@ -8,3 +8,4 @@ What to Deliver
   Pre-compute the data based on the signed in user 
   Demonstrate the clear personalization ideas (say theme that a user prefers or a catalogue which they like). 
   Impact of implementing this capability for an eCommerce website (In terms of potential uptick in revenue).
+Technologies to be used:
