@@ -10,3 +10,5 @@ What to Deliver
   Impact of implementing this capability for an eCommerce website (In terms of potential uptick in revenue).
 Technologies to be used:
 React
+Node js
+Python
